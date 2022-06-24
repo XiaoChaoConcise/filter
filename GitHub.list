@@ -1,9 +1,9 @@
 #GitHub
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX, github.com
-host, api2.branch.io
-DOMAIN-SUFFIX, githubassets.com
-DOMAIN-SUFFIX, githubapp.com
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-host, api.amplitude.com
+DOMAIN-SUFFIX,githubusercontent.com,GitHub
+DOMAIN-SUFFIX, github.com,GitHub
+host, api2.branch.io,GitHub
+DOMAIN-SUFFIX, githubassets.com,GitHub
+DOMAIN-SUFFIX, githubapp.com,GitHub
+DOMAIN-SUFFIX,gitbook.com,GitHub
+DOMAIN-SUFFIX,gitbook.io,GitHub
+host, api.amplitude.com,GitHub
