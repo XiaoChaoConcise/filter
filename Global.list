@@ -455,3 +455,12 @@ DOMAIN-SUFFIX,linkedin.com,PROXY
 DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
+# > GitHub
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX, github.com,PROXY
+Host, api2.branch.io,PROXY
+DOMAIN-SUFFIX, githubassets.com,PROXY
+DOMAIN-SUFFIX, githubapp.com,PROXY
+DOMAIN-SUFFIX,gitbook.com,PROXY
+DOMAIN-SUFFIX,gitbook.io,PROXY
+Host, api.amplitude.com,PROXY
